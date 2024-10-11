@@ -1,0 +1,18 @@
+The initial player hand was: [3, 11] : 14
+The initial dealer hand was: [9, 7] : 16
+The final player hand was: [3, 1, 9, 10] : 23
+The final dealer hand was: [9, 7] : 16
+The result is: dealer
+-1
+The initial player hand was: [9, 10] : 19
+The initial dealer hand was: [10, 5] : 15
+The final player hand was: [9, 10] : 19
+The final dealer hand was: [10, 5, 10] : 25
+The result is: player
+1
+The initial player hand was: [4, 10] : 14
+The initial dealer hand was: [8, 8] : 16
+The final player hand was: [4, 10, 10] : 24
+The final dealer hand was: [8, 8] : 16
+The result is: dealer
+-1
